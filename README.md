@@ -288,10 +288,3 @@ those classes in the Novels split, not a modeling bug.
   instantiation instead of `AutoModel`/`AutoTokenizer` (see architecture table
   above).
 
----
-
-## Citation
-
-If this benchmark or code is useful to your work, please check back for the
-associated paper's citation details once published. This README does not
-include a BibTeX entry yet.
